@@ -8,6 +8,7 @@ pip install requests
 pip install bs4
 pip install rich
 pip install stdiomask
+git clone https://github.com/foxdev88/CRACK-FACEBOOK-
 cd CRACK-FACEBOOK-
 ls
 python RIMURUV5.py
